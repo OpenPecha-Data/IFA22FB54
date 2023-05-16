@@ -1,0 +1,19 @@
+id: IFA22FB54
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:42.537001
+last_modified: 2023-01-04 11:31:42.537007
+source_metadata:
+  collections:
+  - Chöje Lingpa Series
+  - Works of Tibetan Masters
+bases:
+  043E:
+    title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+      that Unites the Oral, Treasure and Visionary Teachings'
+    base_file: 043E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
